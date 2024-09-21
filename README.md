@@ -1,4 +1,4 @@
-Eye Tracking with Computer Vision and Deep learning
+# Eye Tracking with Computer Vision and Deep learning #
  
 # Project overview
 This project is an eye-tracking system built using Python, OpenCV, and deep learning models. The goal of the project is to create a basic computer vision application that can track the user's eyes using a webcam and potentially trigger actions based on where the user is looking. This could have applications in hands-free navigation, app launching, or accessibility tools and more.
